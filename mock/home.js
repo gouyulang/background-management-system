@@ -8,7 +8,7 @@ module.exports = [
       const items = data.items
       return {
         code: 20000,
-        data: data
+        data,
       }
     }
   }
